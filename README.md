@@ -5,7 +5,7 @@
 La empresa se dedica al mantenimiento preventivo y correctivo de las azoteas en la ciudad de Tuxpan, Ver.
 
 ### Objetivo del proyecto:
-- El principal objetivo es en base a datos historicos recabados durante los proyectos, además de tener un control interno de precios y procesos que se han desarrollado durante la elbaoración del mantenimiento preventivo y correctivo, poder predecir un precio en base a la data historica. Por ende, buscando ofrecer un mejor servicio a los clientes, una utilidad optima para la empresa y un precio basado en decisiones.
+- El principal objetivo es en base a datos historicos recabados durante el proyecto, además de tener un control interno de precios y procesos que se han desarrollado durante la elaboración del mantenimiento preventivo y correctivo, poder predecir un precio en base a la data historica. Por ende, buscando ofrecer un mejor servicio a los clientes, una utilidad optima para la empresa y un precio basado en decisiones.
 
 - El database tendra variables categoricas y numericas:
   - Metros cuadrados de la azotea
@@ -13,7 +13,7 @@ La empresa se dedica al mantenimiento preventivo y correctivo de las azoteas en 
   - Limpieza de la azotea
   - Eliminación de obstaculos
   - Precio
-  - Material utilizado
+  - Material utilizado, entre otras.
 
 ## La metodologia es:
 - En base a los datos obtenidos, analizaremos las variables que repercuten en el precio.
