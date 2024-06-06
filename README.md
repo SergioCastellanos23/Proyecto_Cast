@@ -9,7 +9,7 @@ La empresa se dedica al mantenimiento preventivo y correctivo de las azoteas en 
 
 - El database tendra variables categoricas y numericas:
   - Metros cuadrados de la azotea
-  - Retiramiento de impermeabilizante
+  - Retiro de impermeabilizante
   - Limpieza de la azotea
   - Eliminación de obstaculos
   - Precio
