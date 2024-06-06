@@ -18,7 +18,7 @@ La empresa se dedica al mantenimiento preventivo y correctivo de las azoteas en 
 ## La metodologia es:
 - En base a los datos obtenidos, analizaremos las variables que repercuten en el precio.
 - Analizaremos estas variables con metodos tradicionales. Análisis bivariado y multivariado.
-- Crearemos un scorecard para categorizar o segmentar la complejidad del mantenimiento en tres categorias:
+- Crearemos un "scorecard" para categorizar o segmentar la complejidad del mantenimiento en tres categorias:
   - No complejo
   - Complejo
   - Mayor complejidad
